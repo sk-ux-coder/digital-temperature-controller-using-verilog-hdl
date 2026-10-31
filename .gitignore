@@ -1,0 +1,18 @@
+# Vivado generated files
+.Xil/
+*.jou
+*.log
+*.str
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+*.xpr
+vivado_project/
+
+# Simulator outputs
+*.wdb
+*.vcd
+xsim.dir/
